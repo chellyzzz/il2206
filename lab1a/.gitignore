@@ -1,0 +1,6 @@
+*
+!*.adb
+!*.ads
+!.gitignore
+!*.png
+!*.drawio
